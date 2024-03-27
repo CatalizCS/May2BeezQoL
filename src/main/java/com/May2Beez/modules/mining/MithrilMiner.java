@@ -62,7 +62,7 @@ public class MithrilMiner extends Module {
     private final ArrayList<String> miningTools = new ArrayList<String>() {{
         add("Pickaxe");
         add("Drill");
-        add("pickonimbus");
+        add("Pickonimbus");
         add("Gauntlet");
     }};
 
